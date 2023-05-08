@@ -1,2 +1,2 @@
-# Repo-app
- project repo using api github
+Next.Js 13
+
